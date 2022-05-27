@@ -9,4 +9,4 @@ Basically, this repository can be used as template for your project: It has esse
 ### screenshots
 
 !['login-page'](./images/ask-login.png)
-!['user-info'](./images/user-info.png)
+!['user-info'](./images/user-info.jpg)
